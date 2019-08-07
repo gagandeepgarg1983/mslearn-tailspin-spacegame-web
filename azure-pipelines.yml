@@ -1,4 +1,2 @@
-﻿jobs:
-- job: Linux
-  pool:
-    vmImage: 'ubuntu-latest'
+pool:
+  vmImage: 'Ubuntu-16.04'
