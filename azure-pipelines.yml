@@ -1,2 +1,2 @@
 ﻿pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'Ubuntu-16.04'
